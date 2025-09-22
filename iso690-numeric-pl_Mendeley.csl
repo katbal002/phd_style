@@ -27,8 +27,8 @@
       <term name="page" form="short">
         <single>s.</single>
         <multiple>s.</multiple>   
-      <term name="ibid">tamże</term>
       </term>
+<term name="ibid">tamże</term>
       <term name="accessed">udostępniono</term>
     <term name="and">i</term>
     <term name="and others">i inni</term>
@@ -116,7 +116,7 @@
       <single>sekcja</single>
       <multiple>sekcje</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
